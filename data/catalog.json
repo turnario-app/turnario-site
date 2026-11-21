@@ -1,24 +1,24 @@
 {
-  "monthlyAmount": 149,
+  "monthlyAmount": 199,
   "plans": [
     {
       "code": "monthly",
-      "amount": 149,
-      "standardAmount": 149,
-      "renewalAmount": 149,
+      "amount": 199,
+      "standardAmount": 199,
+      "renewalAmount": 199,
       "trialDays": 7
     },
     {
       "code": "yearly",
-      "amount": 1499,
-      "standardAmount": 1499,
-      "renewalAmount": 1499,
+      "amount": 1999,
+      "standardAmount": 1999,
+      "renewalAmount": 1999,
       "trialDays": 7
     },
     {
       "code": "lifetime",
-      "amount": 3499,
-      "standardAmount": 3499,
+      "amount": 4999,
+      "standardAmount": 4999,
       "renewalAmount": null,
       "trialDays": 0
     }
@@ -26,7 +26,7 @@
   "offers": {
     "firstYear": {
       "amount": 999,
-      "renewalAmount": 1499
+      "renewalAmount": 1999
     },
     "group": {
       "amount": 999,
